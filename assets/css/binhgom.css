@@ -1,0 +1,26 @@
+.binhgom{
+    margin: 12px 80px;
+}
+.binhgom-head{
+    display: flex;
+    position: relative;
+}
+.result{
+    position: absolute;
+    right: 4px;
+}
+.binhgom-product{
+    margin-top: 40px;
+}
+.binhgom-intro{
+    text-align: center;
+    font-size: 26px;
+    color: #ecb859;
+}
+.binhgom-list{
+    display: flex;
+    margin: 30px 0;
+}
+.binhgom-item{
+    margin-right: 8px;
+}
